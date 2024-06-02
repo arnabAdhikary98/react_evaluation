@@ -17,7 +17,7 @@ import { Image,
     const navigate = useNavigate()
 
     return(
-        <Card maxW='sm'>
+        <Card maxW='200px' >
         <CardBody>
             <Image
             src= {image}
